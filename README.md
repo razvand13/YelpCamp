@@ -1,5 +1,5 @@
 # Description
-This is a Web Development project part of the online course [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/). It is a means of presenting knowledge of HTML, CSS, JavaScript, alongside frameworks and add-ons like Bootstrap, MongoDB, Mongoose, EJS, Express etc.
+This is a Web Development project part of the online course [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/). It is a means of presenting knowledge of HTML, CSS, JavaScript, alongside frameworks, libraries and add-ons like Bootstrap, MongoDB, Mongoose, EJS, Express etc.
 
 
 # How to run it
